@@ -1,0 +1,9 @@
+.hero {
+    background-image: url(../img/paisaje.webp);
+    height: 99vh;
+    background-size: cover;
+    background-position: center;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
